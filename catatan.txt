@@ -1,0 +1,24 @@
+halaman 1 (about me)
+nama 
+nama keahlian 
+deskripsi singkat 
+gambar 
+
+halaman 2 (experience)
+tahun (2012)
+pekerjaan
+perusahaan
+deskripsi 
+-----
+skills 
+nama skils 
+-----
+
+halaman 3 (hobby)
+nama
+edukasi (tugas)
+
+halaman 4 (contac me)
+nama
+email
+pesan
